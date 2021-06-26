@@ -1,0 +1,9 @@
+@media (max-width: 1024px) {
+  .header_cart, .nav {
+    display: none;
+  }
+  .nav {
+    display: none;
+  }
+}
+/*# sourceMappingURL=media.css.map */
